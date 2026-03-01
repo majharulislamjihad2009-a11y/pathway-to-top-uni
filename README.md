@@ -16,7 +16,7 @@
 **Reflection**
 `Breaking down complex problems into smaller logical steps is making the learning process smoother. Consistent progress is the priority.`
 
-### 01 March 2026
+## 01 March 2026
 
 **Computer Science & Open Source**
 `- Worked on a new GitHub project.`
