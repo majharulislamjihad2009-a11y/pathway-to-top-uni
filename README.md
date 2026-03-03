@@ -41,3 +41,17 @@ Consistency across multiple domains is helping maintain the momentum. The focus 
 
 **Reflection**
 Moving from visual blocks to text-based coding in C is a significant step. The focus is on understanding syntax and logic.
+
+## 03 March 2026
+
+**Computer Science (CS50x)**
+- **Milestone:** Successfully submitted Project 0: Scratch.
+- **Result:** Official grade received with a green checkmark in the gradebook.
+- **Achievement:** Completed all requirements including logic design and file submission.
+
+**Current Status**
+- Week 0: 100% Complete
+- Week 1: Introduction to C (Next Objective)
+
+**Reflection**
+Successfully navigating the first project submission is a great start. Ready to transition from block-based coding to text-based programming in C.
