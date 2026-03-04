@@ -1,5 +1,5 @@
 # pathway-to-top-uni
-## 27-02-2026
+## 27 February 2026
 Today,I completed CS50 Lecture 0 and startded my SAT preparation on Khan Academy.This is the start of my journey.
 
 ## 28 February 2026
@@ -55,3 +55,17 @@ Moving from visual blocks to text-based coding in C is a significant step. The f
 
 **Reflection**
 Successfully navigating the first project submission is a great start. Ready to transition from block-based coding to text-based programming in C.
+
+## 04 March 2026
+
+**Computer Science (CS50x)**
+- Completed Week 1 Lecture (C Programming).
+- Studied Integer Overflow and Y2K38 Problem.
+
+**SAT Preparation**
+- Completed 3 lessons on Khan Academy.
+
+**Key Achievement**
+Understanding memory limits and transitioning from blocks to C syntax.
+
+
