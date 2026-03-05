@@ -68,4 +68,14 @@ Successfully navigating the first project submission is a great start. Ready to 
 **Key Achievement**
 Understanding memory limits and transitioning from blocks to C syntax.
 
+## 05 March 2026
 
+**Computer Science (CS50x)**
+- Started Week 1 Problem Set.
+- Began implementing logic for the first C programs.
+
+**SAT Preparation**
+- Completed 1 lesson on Khan Academy.
+
+**Key Achievement**
+Transitioning from theory to practical implementation in C.
