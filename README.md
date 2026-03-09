@@ -79,3 +79,17 @@ Understanding memory limits and transitioning from blocks to C syntax.
 
 **Key Achievement**
 Transitioning from theory to practical implementation in C.
+
+
+## 06 March 2026
+
+**Computer Science (CS50x)**
+- Focused on Week 1 Problem Sets (Mario and Cash).
+- Implemented greedy algorithms and nested loops in C.
+
+**SAT Preparation**
+- Continued practice on Khan Academy.
+
+**Key Achievement**
+Solving the logic for the "Cash" problem using C's arithmetic operators.
+
