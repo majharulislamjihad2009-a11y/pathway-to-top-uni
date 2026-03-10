@@ -93,3 +93,74 @@ Transitioning from theory to practical implementation in C.
 **Key Achievement**
 Solving the logic for the "Cash" problem using C's arithmetic operators.
 
+## 05 March 2026
+
+**Computer Science (CS50x)**
+- Started Week 1 Problem Set.
+- Began implementing logic for the first C programs.
+
+**SAT Preparation**
+- Completed 1 lesson on Khan Academy.
+
+---
+
+## 06 March 2026
+
+**Computer Science (CS50x)**
+- Focused on Week 1 Problem Sets (Mario and Cash).
+- Implemented greedy algorithms and nested loops in C.
+
+**SAT Preparation**
+- Continued practice on Khan Academy.
+
+---
+
+## 07 March 2026
+
+**Computer Science (CS50x)**
+- **Milestone:** Officially completed Week 1 Problem Sets.
+- **Results:** Achieved 100% scores with perfect style (1.00) in all submissions.
+- **Progress:** 2 of 11 weeks complete.
+
+**Reflection**
+Successfully transitioning to C programming with perfect scores. The logic for the "Cash" greedy algorithm was a great win.
+
+---
+
+## 08 March 2026
+
+**Computer Science (CS50x)**
+- Started Week 2: Arrays.
+- Explored memory allocation and string manipulation (arrays of characters).
+
+**SAT Preparation**
+- Completed 1 lesson on Khan Academy.
+
+---
+
+## 09 March 2026
+
+**Computer Science (CS50x)**
+- **Milestone:** Completed Week 2 Problem Sets (Readability, Caesar/Vigenere).
+- Mastered command-line arguments and cryptographic logic in C.
+
+**SAT Preparation**
+- Completed 1 lesson on Khan Academy.
+
+---
+
+## 10 March 2026
+
+**Computer Science (CS50x)**
+- Started Week 3: Algorithms.
+- Learning about Search (Linear & Binary) and Sort (Bubble, Selection, Merge).
+- Understanding Big O notation and computational efficiency.
+
+**SAT Preparation**
+- Completed 1 lesson on Khan Academy.
+
+**Current Status**
+- Week 0-2: 100% Complete.
+- Week 3: In Progress.
+
+
