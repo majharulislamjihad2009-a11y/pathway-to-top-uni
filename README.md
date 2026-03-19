@@ -234,5 +234,62 @@ Successfully transitioning to C programming with perfect scores. The logic for t
 - Week 0-2: 100% Complete.
 - Week 3: In Progress.
 
-.
-.
+## 11 March 2026
+
+**Computer Science (CS50x)**
+- Focused on Week 3: Algorithms.
+- Implemented Linear and Binary Search.
+- Analyzed Big O notation for different search algorithms.
+
+**SAT Preparation**
+- Completed 1 lesson on Khan Academy.
+
+---
+
+## 12 - 14 March 2026
+
+**Computer Science (CS50x)**
+- Completed Week 3 Problem Sets (Plurality/Runoff).
+- Mastered sorting algorithms: Bubble Sort, Selection Sort, and Merge Sort.
+- Deep-dived into Recursion and its implementation in C.
+
+**SAT Preparation**
+- Continued consistent practice on Khan Academy.
+
+---
+
+## 15 March 2026
+
+**Computer Science (CS50x)**
+- Started Week 4: Memory.
+- Explored Hexadecimal, Pointers, and Memory Addresses.
+- Learned how strings are actually just pointers to characters.
+
+---
+
+## 16 - 17 March 2026
+
+**Computer Science (CS50x)**
+- Completed Week 4 Problem Sets (Filter/Recover).
+- Worked with file I/O (fopen, fread, fwrite) and dynamic memory allocation (malloc, free).
+- Successfully recovered "deleted" JPEGs from a memory card image.
+
+**SAT Preparation**
+- Completed 2 lessons on Khan Academy.
+
+---
+
+## 18 - 19 March 2026
+
+**Computer Science (CS50x)**
+- Started Week 5: Data Structures.
+- Completed Lecture 5: Learning about Linked Lists, Stacks, Queues, and Hash Tables.
+- Understanding the trade-offs between different data structures in terms of time and space complexity.
+
+**SAT Preparation**
+- Completed 1 lesson on Khan Academy.
+
+**Current Status**
+- Week 0-4: 100% Complete.
+- Week 5: In Progress (Data Structures).
+
